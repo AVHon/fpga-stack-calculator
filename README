@@ -1,0 +1,9 @@
+This is a calculator project from an FPGA class I took in Fall 2015 at Indiana University.
+A description of what it does is in the header of "main.v"
+This project was from near the end of the semester, and represents most of what we learned to do in the course.
+
+"main.xdc" specifies the internal connections of the FPGA and is of little interest. 
+"main.v" contains the actual code.
+"bin2seg.v" is a supplementary module that I wrote.
+
+I wrote 100% of the code in this project.
